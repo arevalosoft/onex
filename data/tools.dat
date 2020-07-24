@@ -25,7 +25,7 @@ CrawlBox|CrawlBox|null|https://github.com/abaykan/CrawlBox.git|git|python,git
 CredSniper|CredSniper|null|https://github.com/ustayready/CredSniper.git|git|python,git
 Crips|Crips|information_gathering|https://github.com/Manisso/Crips.git|git|python,git
 CyberScan|CyberScan|null|https://github.com/medbenali/CyberScan.git|git|python,git
-D-TECT|D-TECT|information_gathering,vulnerability_scanner|https://github.com/shawarkhanethicalhacker/D-TECT.git|git|python,git
+D-TECT|D-TECT|information_gathering,vulnerability_scanner|https://github.com/shawarkhanethicalhacker/D-TECT-1|git|python,git
 DHCPig|DHCPig|stress_testing|https://github.com/kamorin/DHCPig.git|git|python,git
 DKMC|DKMC|null|https://github.com/Mr-Un1k0d3r/DKMC.git|git|python,git
 DSSS|DSSS|vulnerability_scanner|https://github.com/stamparm/DSSS.git|git|python,git
